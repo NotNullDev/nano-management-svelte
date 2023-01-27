@@ -1,7 +1,7 @@
 <!-- TODO: add tooltips -->
 <nav class="flex flex-col justify-between">
 	<div class="flex flex-col gap-4 px-4 mt-5">
-		<div class="flex gap-2 hover:bg-slate-300 p-2 cursor-pointer rounded-xl">
+		<a class="flex gap-2 btn btn-sm  btn-ghost" href="/tracker">
 			<svg
 				xmlns="http://www.w3.org/2000/svg"
 				viewBox="0 0 20 20"
@@ -17,9 +17,9 @@
 			</svg>
 
 			<!-- <a>Report</a> -->
-		</div>
+		</a>
 
-		<div class="flex gap-2 hover:bg-slate-300 p-2 cursor-pointer rounded-xl">
+		<div class="flex gap-2 btn btn-sm  btn-ghost">
 			<svg
 				xmlns="http://www.w3.org/2000/svg"
 				viewBox="0 0 20 20"
@@ -36,7 +36,7 @@
 			<!-- <a>Report management</a> -->
 		</div>
 
-		<div class="flex gap-2 hover:bg-slate-300 p-2 cursor-pointer rounded-xl">
+		<div class="flex gap-2 btn btn-sm  btn-ghost">
 			<svg
 				xmlns="http://www.w3.org/2000/svg"
 				fill="none"
@@ -54,7 +54,7 @@
 			<!-- <a>Users</a> -->
 		</div>
 
-		<div class="flex gap-2 hover:bg-slate-300 p-2 cursor-pointer rounded-xl">
+		<div class="flex gap-2 flex gap-2 btn btn-sm  btn-ghost">
 			<svg
 				xmlns="http://www.w3.org/2000/svg"
 				fill="none"
@@ -74,7 +74,7 @@
 	</div>
 
 	<div class="flex flex-col gap-4 px-4 mb-5">
-		<div class="flex gap-2 hover:bg-slate-300 p-2 cursor-pointer rounded-xl">
+		<div class="flex gap-2 btn btn-sm  btn-ghost">
 			<svg
 				xmlns="http://www.w3.org/2000/svg"
 				fill="none"
